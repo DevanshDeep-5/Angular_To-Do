@@ -1,5 +1,7 @@
 # AngularToDoList
 
+This is also a To-Do website but but made using Angular 
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
 
 ## Development server
